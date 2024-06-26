@@ -73,8 +73,6 @@ def main():
             - **Tinggi:** Tinggi badan balita dalam centimeter.
             - **Usia:** Usia balita dalam bulan.
             - **BB/TB:** Kategori status gizi berdasarkan berat badan dan tinggi badan, yang menjadi target klasifikasi.
-            
-            Dataset yang digunakan untuk modeling adalah hasil preprocessing dari data asli.
 
             Metode yang digunakan dalam penelitian ini adalah jaringan syaraf tiruan dengan menggunakan perceptron. Metode perceptron merupakan metode pembelajaran terawasi dalam sistem jaringan syaraf tiruan. Saat merancang jaringan saraf, seseorang harus mempertimbangkan jumlah spesifikasi yang akan ditentukan. Jaringan syaraf tiruan terdiri dari beberapa neuron dan beberapa input.
             Metode Perceptron adalah metode yang dilatih dengan menggunakan sekumpulan sampel yang diberikan secara iteratif selama proses pelatihan. Setiap sampel yang diberikan adalah sepasang input dan sampel yang diinginkan.
